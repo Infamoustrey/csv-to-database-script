@@ -1,0 +1,21 @@
+{
+  "name": "csv-to-database-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Infamoustrey/csv-to-database-script"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^2.0.3",
+    "knex": "^0.14.6",
+    "moment": "^2.22.2",
+    "mssql": "^4.1.0"
+  }
+}
